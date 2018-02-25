@@ -3,7 +3,7 @@ import json
 import requests
 import csv
 
-# User inputs their desired action in the program
+
 query = input("Welcome to MTG Management.\n"
 	      "Please choose the cooresponding number from the options below.\n"
 	      "   1) Search for a card or group of cards.\n"

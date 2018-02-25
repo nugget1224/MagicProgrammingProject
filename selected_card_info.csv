@@ -1,8 +1,19 @@
-Better Than One
-2.0,{G}{W}
+Black Knight
+2.0,{B}{B}
+Creature — Human Knight
+|First strike (This creature deals combat damage before creatures without first strike.)
+Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)|
+2,2
+['B']
+Battle doesn't need a purpose; the battle is its own purpose. You don't ask why a plague spreads or a field burns. Don't ask why I fight.
+Masters Edition IV,me4,71
+
+Black Sun's Zenith
+2.0,{X}{B}{B}
 Sorcery
-|A person outside the game becomes your teammate. (Choose any number of cards in your hand, on top of your library, or on the battlefield under your control. Those cards become your teammate's hand, library, and permanents, respectively.)|
-|['G', 'W']|
-Unstable,ust,128
-$0.08
+Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.
+['B']
+|"Under the suns, Mirrodin kneels and begs us for perfection." —Geth, Lord of the Vault|
+Commander 2014,c14,136
+$3.49
 
